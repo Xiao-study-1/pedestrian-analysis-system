@@ -1,0 +1,27 @@
+{
+  "name": "pedestrian-traffic-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "行人交通行为智能分析系统前端",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4",
+    "pinia": "^2.1.6",
+    "axios": "^1.5.0",
+    "element-plus": "^2.3.14",
+    "@element-plus/icons-vue": "^2.1.0",
+    "echarts": "^5.4.3",
+    "three": "^0.140.1",
+    "gsap": "^3.12.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite": "^4.4.9",
+    "sass": "^1.66.1"
+  }
+}
